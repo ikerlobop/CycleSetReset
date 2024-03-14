@@ -1,2 +1,2 @@
-# CicleSetReset
-Cicle Set Reset in TIA PORTAL v17
+# CycleSetReset
+Set Reset Cycle archived in TIA PORTAL v17
